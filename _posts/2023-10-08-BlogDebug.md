@@ -6,13 +6,13 @@ tags: [blog, Jekyll, Debug, Blog Error, Github Blog Error,Chirpy 오류]
 ---
 
 # Index
-1. [--- layout: home # Index page --- 오류](#layout-home--index-page-----message)
+1. [--- layout: home # Index page --- 오류](#layout-home-index-page-message)
 2. [JS file not found 오류ERROR `/assets/js/dist/home.min.js' not found.](#js-파일이-없다고-뜨는-경우--error-assetsjsdisthomeminjs-not-found)
 3. Tag 
 
 ---
 
-## --- layout: home # Index page --- Message
+## layout: home Index page Message
 
 Chirpy 테마를 사용하면서 가장 많이 겪고, 가장 많이 뜨는 오류 중 하나이다. 
 이 메시지가 뜨는 정말 다양한 원인이 많기 때문에, 그 중 어떤 원인으로 이 오류가 뜨는지 알기 힘들다. 아래 내용을 모두 확인해보길 바랍니다.
