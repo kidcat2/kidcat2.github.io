@@ -38,7 +38,7 @@ username 에는 블로그 이름이 들어가므로 내 경우에는 url: "https
 
 ## 2. JS 파일이 없다고 뜨는 경우 : ERROR `/assets/js/dist/home.min.js' not found.
 
-아마도 한 개의 파일이 아니라 한 6개 정도의 파일이 없다고 뜬다. 터미널에는 빨간 글씨의 ERROR 가 아닌 하얀 글씨로 뜨는 경우도 있기 때문에 놓치기 쉽다.
+한 개의 파일이 아니라 한 6개 정도의 파일이 없다고 뜬다. 터미널에는 빨간 글씨의 ERROR 가 아닌 하얀 글씨로 뜨는 경우도 있기 때문에 놓치기 쉽다.
 왜 안되지? 싶어서 github로 가보면 아래 사진과 같은 ERROR가 보일 것 이다.<br>
 ![Desktop View](/assets/img/Error/error-nojsfile.png){:style="border:1px solid #eaeaea; border-radius: 7px; padding: 0px;"}
 
