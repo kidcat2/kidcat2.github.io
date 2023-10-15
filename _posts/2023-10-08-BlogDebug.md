@@ -1,5 +1,5 @@
 ---
-title: "Debug & Solution 1"
+title: "[Blog] Debug & Solution"
 date: 2023-10-08 +0000
 categories: [Develop, Blog]
 tags: [Blog, Jekyll, Debug, Blog Error, Github Blog Error,Chirpy 오류]
