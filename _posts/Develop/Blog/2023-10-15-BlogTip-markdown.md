@@ -1,5 +1,5 @@
 ---
-title: "[Blog] Tip - 마크다운 문법"
+title: "[Blog] 마크다운 문법"
 date: 2023-10-08 +0000
 categories: [Develop, Blog]
 tags: [Blog]
