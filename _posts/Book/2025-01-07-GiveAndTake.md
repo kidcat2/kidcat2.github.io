@@ -1,5 +1,5 @@
 ---
-title: "[책 리뷰] 기브 앤 테이크(★★★★★)"
+title: "[책 리뷰] 기브 앤 테이크"
 date: 2025-01-07 +0800
 categories: [Book]
 tags: [Book]
